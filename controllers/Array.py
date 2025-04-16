@@ -32,7 +32,27 @@ class Solution(object):
 
 # Given an integer x, return true if x is a palindrome, and false otherwise.
 
-
 class Solution(object):
     def isPalindrome(self, x):
         return True if str(x)==str(x)[::-1] else False
+
+
+
+# Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
+#  Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
+class Solution(object):
+    def reverse(self, x):
+        
+        if x>=0:
+            x = int(str(x)[::-1])
+            if x >= 2**31 - 1 or x == 0:
+                return 0
+            else: return x
+        else:
+            x= int("-"+(str(x)[:-len(str(x)):-1]))
+            if -2**31 >= x:
+                return 0
+            else: return x
+
