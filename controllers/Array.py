@@ -56,3 +56,17 @@ class Solution(object):
                 return 0
             else: return x
 
+
+
+# Given a 0-indexed integer array nums of length n and an integer k, return the number of pairs (i, j) where 0 <= i < j < n, such that nums[i] == nums[j] and (i * j) is divisible by k.
+
+
+class Solution(object):
+    def countPairs(self, nums, k):
+        cnt=0
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                if nums[i] == nums[j] and (i * j)%k==0:
+                    cnt+=1
+        return cnt
+
