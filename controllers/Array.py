@@ -76,3 +76,23 @@ class Solution(object):
 class Solution(object):
     def myPow(self, x, n):
         return x**n
+
+
+# Given an array nums sorted in non-decreasing order, return the maximum between the number of positive integers and the number of negative integers.
+
+# In other words, if the number of positive integers in nums is pos and the number of negative integers is neg, then return the maximum of pos and neg.
+# # Note that 0 is neither positive nor negative.
+
+class Solution(object):
+    def maximumCount(self, nums):
+        cnt1=0
+        cnt2=0
+        for i in nums:
+            if i<0:
+                cnt1+=1
+            elif i>0:
+                cnt2+=1
+        if cnt1>cnt2:
+            return cnt1
+        else:
+            return cnt2
