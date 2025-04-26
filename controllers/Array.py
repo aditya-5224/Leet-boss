@@ -96,3 +96,15 @@ class Solution(object):
             return cnt1
         else:
             return cnt2
+        
+
+# Given a m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in grid.
+
+class Solution(object):
+    def countNegatives(self, grid):
+        cnt=0
+        for i in grid:
+            for j in range(len(i)):
+                if i[j]<0:
+                    cnt+=1
+        return cnt
