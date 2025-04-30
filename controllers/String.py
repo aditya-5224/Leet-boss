@@ -11,8 +11,17 @@ class Solution(object):
         return True if st[::-1]==st else False
     
 
-    # Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+# Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
-    class Solution(object):
+class Solution(object):
     def strStr(self, haystack, needle):
         return -1 if needle not in haystack else haystack.index(needle)
+
+
+# Given a string s consisting of words and spaces, return the length of the last word in the string.
+# A word is a maximal substring consisting of non-space characters only.
+
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        lst=s.split()
+        return len(lst[-1])
