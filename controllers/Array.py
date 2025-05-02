@@ -159,3 +159,13 @@ class Solution(object):
             if len(str(i))%2==0:
                 cnt+=1
         return cnt
+
+
+# Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+# Note that you must do this in-place without making a copy of the array.
+
+class Solution(object):
+    def moveZeroes(self, nums):
+        for i in range(nums.count(0)):
+            nums.remove(0)
+            nums.append(0)
