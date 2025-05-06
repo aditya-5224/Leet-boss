@@ -213,3 +213,20 @@ class Solution(object):
     def majorityElement(self, nums):
         nums.sort()
         return nums[len(nums)//2]
+    
+
+# Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
+# If target is not found in the array, return [-1, -1].
+# You must write an algorithm with O(log n) runtime complexity.
+
+class Solution(object):
+    def searchRange(self, nums, target):
+        lst=[]
+        if target in nums:
+            for i in range(len(nums)):
+                if nums[i]==target:
+                    lst+=[nums.index(nums[i])]
+                    nums[i]+=1
+            return [min(lst),max(lst)]
+        else:
+            return [-1,-1]
