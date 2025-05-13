@@ -259,3 +259,23 @@ class Solution(object):
         for i in range(len(nums)):
             ans+=[nums[nums[i]]]
         return ans
+    
+
+# Given two arrays of strings list1 and list2, find the common strings with the least index sum.
+# A common string is a string that appeared in both list1 and list2.
+# A common string with the least index sum is a common string such that if it appeared at list1[i] and list2[j] then i + j should be the minimum value among all the other common strings.
+# Return all the common strings with the least index sum. Return the answer in any order.
+
+class Solution(object):
+    def findRestaurant(self, list1, list2):
+        lst=[]
+        dct={}
+        for i in list1:
+            if i in list2:
+                dct[i]=list1.index(i)+list2.index(i)
+        for j in dct:
+            if dct[j]==min(dct.values()):
+                lst+=[j]
+        return lst
+
+ 
