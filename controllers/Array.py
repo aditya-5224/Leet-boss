@@ -277,5 +277,20 @@ class Solution(object):
             if dct[j]==min(dct.values()):
                 lst+=[j]
         return lst
+    
+
+# Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+class Solution(object):
+    def containsDuplicate(self, nums):
+        nums.sort()
+        dct={}
+        cnt=1
+        for i in nums:
+            if i not in dct:
+                dct[i]=1
+            else:
+                cnt+=1
+        return True if cnt>1 else False
 
  
