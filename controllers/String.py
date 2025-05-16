@@ -61,3 +61,15 @@ class Solution(object):
 class Solution(object):
     def detectCapitalUse(self, word):
         return True if word.isupper() or word.islower() or word.capitalize()==word else False
+    
+# Given a string s, return the string after replacing every uppercase letter with the same lowercase letter.
+
+class Solution(object):
+    def toLowerCase(self, s):
+        dct=""
+        for i in s:
+            if i.isupper()==True:
+                dct+=chr(ord(i)+32)
+            else:
+                dct+=i
+        return dct
