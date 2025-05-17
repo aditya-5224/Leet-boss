@@ -293,4 +293,12 @@ class Solution(object):
                 cnt+=1
         return True if cnt>1 else False
 
+
+# Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+
+class Solution(object):
+    def sortedSquares(self, nums):
+        for i in range(len(nums)):
+            nums[i]=nums[i]**2
+        return sorted(nums)
  
