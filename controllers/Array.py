@@ -319,3 +319,15 @@ class Solution(object):
                 cnt-=1
         return cnt
  
+
+#  Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
+
+import heapq
+def topKFrequent(self, nums, k):
+    dct={}
+    for i in nums:
+        if i not in dct:
+            dct[i]=1
+        else:
+            dct[i]+=1
+    return heapq.nlargest(k, dct.keys(), key=dct.get)
