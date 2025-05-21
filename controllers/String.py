@@ -85,3 +85,13 @@ class Solution(object):
             if i!=len(s)-1:
                 summ+=abs(ord(s[i])-ord(s[i+1]))
         return summ
+    
+
+# Reversing an integer means to reverse all its digits.
+# For example, reversing 2021 gives 1202. Reversing 12300 gives 321 as the leading zeros are not retained.
+# Given an integer num, reverse num to get reversed1, then reverse reversed1 to get reversed2. Return true if reversed2 equals num. Otherwise return false.
+
+class Solution(object):
+    def isSameAfterReversals(self, num):
+        nums=int(str(num)[::-1])
+        return True if int(str(nums)[::-1])==num else False
