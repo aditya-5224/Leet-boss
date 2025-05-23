@@ -53,3 +53,17 @@ class Solution(object):
                 summ-=nums[left]
                 left+=1
         return min_len if min_len!=float("inf") else 0
+
+
+# Given a string s, return true if s is a good string, or false otherwise.
+# A string s is good if all the characters that appear in s have the same number of occurrences (i.e., the same frequency).
+
+class Solution(object):
+    def areOccurrencesEqual(self, s):
+        dct={}
+        for i in s:
+            if i not in dct:
+                dct[i]=1
+            else:
+                dct[i]+=1
+        return True if max(dct.values())==min(dct.values()) else False
