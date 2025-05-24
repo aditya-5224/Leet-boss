@@ -67,3 +67,17 @@ class Solution(object):
             else:
                 dct[i]+=1
         return True if max(dct.values())==min(dct.values()) else False
+    
+
+# Given a roman numeral, convert it to an integer.
+
+class Solution(object):
+    def romanToInt(self, s):
+        dct={"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
+        summ=0
+        for i in range(len(s)):
+            if i<len(s)-1 and dct[s[i]]<dct[s[i+1]]:
+                summ-=dct[s[i]]
+            else:
+                summ+=dct[s[i]]
+        return summ
