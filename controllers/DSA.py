@@ -81,3 +81,15 @@ class Solution(object):
             else:
                 summ+=dct[s[i]]
         return summ
+    
+
+# Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
+
+class Solution(object):
+    def countKDifference(self, nums, k):
+        cnt=0
+        dct=defaultdict(int)
+        for num in nums:
+            cnt += dct[num - k] + dct[num + k]
+            dct[num] += 1
+        return cnt
