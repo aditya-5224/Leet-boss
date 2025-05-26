@@ -93,3 +93,19 @@ class Solution(object):
             cnt += dct[num - k] + dct[num + k]
             dct[num] += 1
         return cnt
+
+
+# A distinct string is a string that is present only once in an array.
+# Given an array of strings arr, and an integer k, return the kth distinct string present in arr. If there are fewer than k distinct strings, return an empty string "".
+# Note that the strings are considered in the order in which they appear in the array.
+
+class Solution(object):
+    def kthDistinct(self, arr, k):
+        dct=Counter(arr)
+        cnt=0
+        for i in arr:
+            if dct[i]==1:
+                cnt+= 1
+                if cnt==k:
+                    return i
+        return ""
