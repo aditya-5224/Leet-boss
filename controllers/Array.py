@@ -331,3 +331,21 @@ def topKFrequent(self, nums, k):
         else:
             dct[i]+=1
     return heapq.nlargest(k, dct.keys(), key=dct.get)
+
+
+# You are given an integer array nums. Transform nums by performing the following operations in the exact order specified:
+
+# 1.Replace each even number with 0.
+# 2.Replace each odd numbers with 1.
+# 3.Sort the modified array in non-decreasing order.
+
+# Return the resulting array after performing these operations.
+class Solution(object):
+    def transformArray(self, nums):
+        n=len(nums)
+        for i in range(n):
+            if nums[i]%2==0:
+                nums[i]=0
+            else:
+                nums[i]=1
+        return sorted(nums)
