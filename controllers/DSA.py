@@ -126,3 +126,15 @@ class Solution(object):
                 left+=1
             arr+=right-left+1
         return arr
+    
+# Given an array nums of size n, return the majority element.
+# The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+
+class Solution(object):
+    def majorityElement(self, nums):
+        cnt=ans=0
+        for i in nums:
+            if cnt==0:
+                ans=i
+            cnt+=1 if ans==i else -1
+        return ans
