@@ -138,3 +138,16 @@ class Solution(object):
                 ans=i
             cnt+=1 if ans==i else -1
         return ans
+    
+# Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+class Solution(object):
+    def maxSubArray(self, nums):
+        max_sum=float("-inf")
+        summ=0
+        for i in range(len(nums)):
+            summ+=nums[i]
+            max_sum=max(max_sum,summ)
+            if summ<0:
+                summ=0
+        return max_sum
