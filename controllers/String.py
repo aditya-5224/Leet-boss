@@ -95,3 +95,17 @@ class Solution(object):
     def isSameAfterReversals(self, num):
         nums=int(str(num)[::-1])
         return True if int(str(nums)[::-1])==num else False
+
+
+# You are given a 0-indexed array of strings words and a character x.
+# Return an array of indices representing the words that contain the character x.
+# Note that the returned array may be in any order.
+
+class Solution(object):
+    def findWordsContaining(self, words, x):
+        arr=[]
+        n=len(words)
+        for i in range(n):
+            if x in words[i]:
+                arr.append(i)
+        return arr
