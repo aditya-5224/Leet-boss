@@ -363,3 +363,16 @@ class Solution(object):
             if i >= target:
                 cnt += 1
         return cnt
+    
+
+# You are given a 0-indexed integer array nums, and an integer k.
+# In one operation, you can remove one occurrence of the smallest element of nums.
+# Return the minimum number of operations needed so that all elements of the array are greater than or equal to k.
+
+class Solution(object):
+    def minOperations(self, nums, k):
+        cnt = 0
+        for i in nums:
+            if i < k:
+                cnt += 1
+        return cnt
