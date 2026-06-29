@@ -128,6 +128,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
