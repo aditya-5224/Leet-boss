@@ -8,14 +8,4 @@ class Solution(object):
            
         else:
             return nums1[lnth//2]
-
-
-        
-        # return (nums1[lnth//2]+nums1[lnth//2-1])/2   
-        
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: float
-        """
         
