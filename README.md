@@ -143,6 +143,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-5224/Leet-boss/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-5224/Leet-boss/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -202,8 +204,18 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-5224/Leet-boss/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
