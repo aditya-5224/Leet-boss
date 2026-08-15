@@ -165,6 +165,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya-5224/Leet-boss/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 ## Combinatorics
@@ -293,6 +294,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -305,12 +307,14 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
@@ -319,5 +323,6 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
