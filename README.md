@@ -293,6 +293,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,13 +305,19 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
