@@ -176,6 +176,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -236,6 +237,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
@@ -253,6 +255,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
