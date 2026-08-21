@@ -195,6 +195,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [3731-find-missing-elements](https://github.com/aditya-5224/Leet-boss/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/aditya-5224/Leet-boss/tree/master/4024-nearest-available-drone) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-5224/Leet-boss/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/aditya-5224/Leet-boss/tree/master/4024-nearest-available-drone) |
 ## Tree
 |  |
 | ------- |
