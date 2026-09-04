@@ -203,6 +203,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aditya-5224/Leet-boss/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/aditya-5224/Leet-boss/tree/master/4024-nearest-available-drone) |
 ## Matrix
 |  |
@@ -231,6 +232,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/aditya-5224/Leet-boss/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
