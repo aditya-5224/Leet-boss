@@ -137,6 +137,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -171,6 +172,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya-5224/Leet-boss/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
