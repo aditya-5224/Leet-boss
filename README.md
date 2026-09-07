@@ -185,6 +185,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -250,6 +251,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
