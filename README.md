@@ -152,6 +152,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya-5224/Leet-boss/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
@@ -305,6 +306,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
