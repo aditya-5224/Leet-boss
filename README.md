@@ -178,6 +178,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0070-climbing-stairs](https://github.com/aditya-5224/Leet-boss/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 ## Combinatorics
@@ -193,6 +194,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
