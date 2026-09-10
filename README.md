@@ -200,6 +200,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/aditya-5224/Leet-boss/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aditya-5224/Leet-boss/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
@@ -261,6 +262,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/aditya-5224/Leet-boss/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
