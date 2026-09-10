@@ -337,6 +337,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-5224/Leet-boss/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-5224/Leet-boss/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-5224/Leet-boss/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
