@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int totalNumbers(auto& digits) {
-        int f[10] = {0};
-        int res = 0;
+    int totalNumbers(vector<int>& digits) {
+        unordered_set<int> s;
+        for (int i = 0; i < digits.size(); i++){
+            if (digits[i] == 0) continue;
+            for (int j = 0; j < digits.size(); j++){
+                if (i == j) continue;
+                for (int k = 0; k < digits.size(); k++){
+                    if (i == k || j == k || digits[k]%2) continue;
+                    int n = digits[i]*100 + digits[j]*10 + digits[k];
+                    s.insert(n);
+                    
+                }
+            }
+        }
 
-        for (auto& d : digits)
-            f[d]++;
-
-        for (int i = 1; i < 10; i++) 
-            for (int j = 0; j < 10; j++) 
-                for (int k = 0; k < 9; k += 2) 
-                    res += f[i] > 0 &&
-                           f[j] > (i == j) &&
-                           f[k] > (i == k) + (j == k);
+        return s.size();
         
-
-        return res;
     }
 };
