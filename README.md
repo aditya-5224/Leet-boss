@@ -125,6 +125,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -203,6 +204,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditya-5224/Leet-boss/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/aditya-5224/Leet-boss/tree/master/0835-image-overlap) |
@@ -253,6 +255,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-5224/Leet-boss/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3904-smallest-stable-index-ii) |
