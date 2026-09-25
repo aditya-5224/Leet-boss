@@ -124,6 +124,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +143,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
@@ -294,6 +296,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
