@@ -146,6 +146,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -274,6 +275,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -427,4 +429,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
