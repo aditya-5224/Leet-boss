@@ -153,6 +153,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
@@ -292,6 +293,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -459,5 +461,6 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
