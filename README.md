@@ -132,6 +132,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-5224/Leet-boss/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-5224/Leet-boss/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -244,6 +245,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-5224/Leet-boss/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
@@ -286,6 +288,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/aditya-5224/Leet-boss/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-5224/Leet-boss/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3904-smallest-stable-index-ii) |
