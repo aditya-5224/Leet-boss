@@ -133,6 +133,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-5224/Leet-boss/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-5224/Leet-boss/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -246,6 +247,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-5224/Leet-boss/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
@@ -272,6 +274,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -478,4 +481,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya-5224/Leet-boss/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
