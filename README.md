@@ -123,6 +123,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
@@ -148,6 +149,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
@@ -222,6 +224,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
@@ -339,6 +342,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
