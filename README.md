@@ -500,4 +500,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/aditya-5224/Leet-boss/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
