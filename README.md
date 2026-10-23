@@ -122,6 +122,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-5224/Leet-boss/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
@@ -146,6 +147,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-5224/Leet-boss/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-5224/Leet-boss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0032-longest-valid-parentheses) |
@@ -324,6 +326,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-5224/Leet-boss/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-5224/Leet-boss/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1358-number-of-substrings-containing-all-three-characters) |
