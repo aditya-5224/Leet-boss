@@ -261,6 +261,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-5224/Leet-boss/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-5224/Leet-boss/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-5224/Leet-boss/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-5224/Leet-boss/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aditya-5224/Leet-boss/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -505,4 +506,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0584-find-customer-referee](https://github.com/aditya-5224/Leet-boss/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/aditya-5224/Leet-boss/tree/master/0595-big-countries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-5224/Leet-boss/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
