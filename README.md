@@ -166,6 +166,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/aditya-5224/Leet-boss/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-5224/Leet-boss/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -190,6 +191,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya-5224/Leet-boss/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/aditya-5224/Leet-boss/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-5224/Leet-boss/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-5224/Leet-boss/tree/master/3536-maximum-product-of-two-digits) |
