@@ -218,6 +218,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/aditya-5224/Leet-boss/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/aditya-5224/Leet-boss/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-5224/Leet-boss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
