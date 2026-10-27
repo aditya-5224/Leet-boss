@@ -5,10 +5,12 @@ public:
         for (int i = 0; i < n; i++){
             ans[0][i] = '.';
         }
-        for (int i = 1; i < m; i++){
+        for (int i = 0; i < m; i++){
             ans[i][n-1] = '.';
         }
 
+        
         return ans;
+
     }
 };
