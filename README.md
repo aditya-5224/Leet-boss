@@ -320,6 +320,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
@@ -435,6 +436,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -453,6 +455,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -464,6 +467,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-5224/Leet-boss/tree/master/0110-balanced-binary-tree) |
