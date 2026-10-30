@@ -129,6 +129,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-5224/Leet-boss/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/aditya-5224/Leet-boss/tree/master/0904-fruit-into-baskets) |
@@ -159,6 +160,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-5224/Leet-boss/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
@@ -340,6 +342,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-5224/Leet-boss/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-5224/Leet-boss/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-5224/Leet-boss/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aditya-5224/Leet-boss/tree/master/0904-fruit-into-baskets) |
