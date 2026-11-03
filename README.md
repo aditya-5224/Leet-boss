@@ -446,6 +446,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -508,6 +509,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0061-rotate-list](https://github.com/aditya-5224/Leet-boss/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
