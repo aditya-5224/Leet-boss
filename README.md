@@ -262,6 +262,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0904-fruit-into-baskets](https://github.com/aditya-5224/Leet-boss/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-5224/Leet-boss/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1002-find-common-characters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/aditya-5224/Leet-boss/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/aditya-5224/Leet-boss/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
@@ -344,6 +345,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya-5224/Leet-boss/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -510,6 +512,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
@@ -558,4 +561,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-5224/Leet-boss/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
