@@ -225,6 +225,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
+| [0376-wiggle-subsequence](https://github.com/aditya-5224/Leet-boss/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
@@ -248,6 +249,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/aditya-5224/Leet-boss/tree/master/0376-wiggle-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-5224/Leet-boss/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
@@ -432,6 +434,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/aditya-5224/Leet-boss/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
