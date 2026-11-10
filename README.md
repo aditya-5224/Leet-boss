@@ -231,6 +231,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3693-climbing-stairs-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-5224/Leet-boss/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-5224/Leet-boss/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-5224/Leet-boss/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-5224/Leet-boss/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aditya-5224/Leet-boss/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-5224/Leet-boss/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
