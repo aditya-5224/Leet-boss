@@ -263,6 +263,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0875-koko-eating-bananas](https://github.com/aditya-5224/Leet-boss/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aditya-5224/Leet-boss/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/aditya-5224/Leet-boss/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-5224/Leet-boss/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
@@ -397,6 +398,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -424,6 +426,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
