@@ -256,6 +256,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/aditya-5224/Leet-boss/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-5224/Leet-boss/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditya-5224/Leet-boss/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -444,6 +445,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/aditya-5224/Leet-boss/tree/master/0376-wiggle-subsequence) |
+| [0605-can-place-flowers](https://github.com/aditya-5224/Leet-boss/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
