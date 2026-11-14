@@ -286,6 +286,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-5224/Leet-boss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/aditya-5224/Leet-boss/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
@@ -412,6 +413,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-5224/Leet-boss/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/aditya-5224/Leet-boss/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-5224/Leet-boss/tree/master/3517-smallest-palindromic-rearrangement-i) |
