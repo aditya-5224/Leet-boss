@@ -291,6 +291,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-5224/Leet-boss/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-5224/Leet-boss/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-5224/Leet-boss/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -343,6 +344,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/aditya-5224/Leet-boss/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-5224/Leet-boss/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-5224/Leet-boss/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya-5224/Leet-boss/tree/master/3904-smallest-stable-index-ii) |
@@ -374,6 +376,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-5224/Leet-boss/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
