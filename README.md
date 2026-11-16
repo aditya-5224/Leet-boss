@@ -204,6 +204,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya-5224/Leet-boss/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/aditya-5224/Leet-boss/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-5224/Leet-boss/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -240,6 +241,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-5224/Leet-boss/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aditya-5224/Leet-boss/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/aditya-5224/Leet-boss/tree/master/2848-points-that-intersect-with-cars) |
@@ -429,6 +432,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-5224/Leet-boss/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -452,6 +456,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aditya-5224/Leet-boss/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/3498-reverse-degree-of-a-string) |
