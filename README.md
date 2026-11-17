@@ -159,6 +159,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0032-longest-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/aditya-5224/Leet-boss/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/aditya-5224/Leet-boss/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-5224/Leet-boss/tree/master/0424-longest-repeating-character-replacement) |
@@ -445,6 +446,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0061-rotate-list](https://github.com/aditya-5224/Leet-boss/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/aditya-5224/Leet-boss/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/aditya-5224/Leet-boss/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
