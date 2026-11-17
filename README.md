@@ -372,6 +372,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1021-remove-outermost-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya-5224/Leet-boss/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -489,6 +490,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -552,6 +554,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
@@ -604,6 +607,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
 | ------- |
