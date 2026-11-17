@@ -365,6 +365,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0032-longest-valid-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-5224/Leet-boss/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -444,6 +445,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/aditya-5224/Leet-boss/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
@@ -490,6 +492,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/aditya-5224/Leet-boss/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-5224/Leet-boss/tree/master/3483-unique-3-digit-even-numbers) |
@@ -555,6 +558,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## DP on Trees
