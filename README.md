@@ -254,6 +254,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0055-jump-game](https://github.com/aditya-5224/Leet-boss/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-5224/Leet-boss/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
@@ -414,6 +415,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aditya-5224/Leet-boss/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/aditya-5224/Leet-boss/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
@@ -446,6 +448,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0061-rotate-list](https://github.com/aditya-5224/Leet-boss/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/aditya-5224/Leet-boss/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aditya-5224/Leet-boss/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
