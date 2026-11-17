@@ -204,6 +204,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya-5224/Leet-boss/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-5224/Leet-boss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/aditya-5224/Leet-boss/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -460,6 +461,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aditya-5224/Leet-boss/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-5224/Leet-boss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
