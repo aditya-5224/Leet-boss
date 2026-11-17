@@ -442,6 +442,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0015-3sum](https://github.com/aditya-5224/Leet-boss/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/aditya-5224/Leet-boss/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aditya-5224/Leet-boss/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/aditya-5224/Leet-boss/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/aditya-5224/Leet-boss/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
@@ -550,6 +551,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aditya-5224/Leet-boss/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/aditya-5224/Leet-boss/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/aditya-5224/Leet-boss/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-5224/Leet-boss/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
