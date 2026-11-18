@@ -379,6 +379,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya-5224/Leet-boss/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya-5224/Leet-boss/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -463,6 +464,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0922-sort-array-by-parity-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya-5224/Leet-boss/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -571,6 +573,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0206-reverse-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
 ## DP on Trees
 |  |
