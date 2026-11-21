@@ -133,6 +133,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-5224/Leet-boss/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/aditya-5224/Leet-boss/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/aditya-5224/Leet-boss/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-5224/Leet-boss/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1002-find-common-characters) |
@@ -167,6 +168,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/aditya-5224/Leet-boss/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/aditya-5224/Leet-boss/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/aditya-5224/Leet-boss/tree/master/1002-find-common-characters) |
@@ -464,6 +466,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/aditya-5224/Leet-boss/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/aditya-5224/Leet-boss/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/aditya-5224/Leet-boss/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -490,6 +493,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0605-can-place-flowers](https://github.com/aditya-5224/Leet-boss/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-5224/Leet-boss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditya-5224/Leet-boss/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/aditya-5224/Leet-boss/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-5224/Leet-boss/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya-5224/Leet-boss/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/aditya-5224/Leet-boss/tree/master/1927-sum-game) |
