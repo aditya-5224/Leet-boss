@@ -262,6 +262,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0088-merge-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-5224/Leet-boss/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/aditya-5224/Leet-boss/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/aditya-5224/Leet-boss/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
@@ -406,6 +407,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/aditya-5224/Leet-boss/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/aditya-5224/Leet-boss/tree/master/0441-arranging-coins) |
