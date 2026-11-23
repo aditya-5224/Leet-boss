@@ -304,6 +304,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-5224/Leet-boss/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aditya-5224/Leet-boss/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/aditya-5224/Leet-boss/tree/master/2293-min-max-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-5224/Leet-boss/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -485,6 +486,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-5224/Leet-boss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2293-min-max-game](https://github.com/aditya-5224/Leet-boss/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
