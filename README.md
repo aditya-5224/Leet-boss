@@ -299,6 +299,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1732-find-the-highest-altitude](https://github.com/aditya-5224/Leet-boss/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/aditya-5224/Leet-boss/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aditya-5224/Leet-boss/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya-5224/Leet-boss/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-5224/Leet-boss/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-5224/Leet-boss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-5224/Leet-boss/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -421,6 +422,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya-5224/Leet-boss/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-5224/Leet-boss/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-5224/Leet-boss/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya-5224/Leet-boss/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-5224/Leet-boss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/aditya-5224/Leet-boss/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
