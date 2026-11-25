@@ -414,6 +414,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aditya-5224/Leet-boss/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aditya-5224/Leet-boss/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/aditya-5224/Leet-boss/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0540-single-element-in-a-sorted-array) |
@@ -654,4 +655,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-5224/Leet-boss/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aditya-5224/Leet-boss/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
