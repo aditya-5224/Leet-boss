@@ -214,6 +214,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-5224/Leet-boss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/aditya-5224/Leet-boss/tree/master/2409-count-days-spent-together) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-5224/Leet-boss/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-5224/Leet-boss/tree/master/3536-maximum-product-of-two-digits) |
@@ -456,6 +457,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aditya-5224/Leet-boss/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-5224/Leet-boss/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -594,6 +596,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [1019-next-greater-node-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
