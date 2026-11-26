@@ -217,6 +217,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aditya-5224/Leet-boss/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-5224/Leet-boss/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-5224/Leet-boss/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/aditya-5224/Leet-boss/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-5224/Leet-boss/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-5224/Leet-boss/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-5224/Leet-boss/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -494,6 +495,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/aditya-5224/Leet-boss/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-5224/Leet-boss/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/aditya-5224/Leet-boss/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-5224/Leet-boss/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-5224/Leet-boss/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
