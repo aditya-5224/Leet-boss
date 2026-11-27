@@ -200,6 +200,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | ------- |
 | [0050-powx-n](https://github.com/aditya-5224/Leet-boss/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya-5224/Leet-boss/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/aditya-5224/Leet-boss/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya-5224/Leet-boss/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-5224/Leet-boss/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/aditya-5224/Leet-boss/tree/master/0441-arranging-coins) |
@@ -414,6 +415,7 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-5224/Leet-boss/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-5224/Leet-boss/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-5224/Leet-boss/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aditya-5224/Leet-boss/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/aditya-5224/Leet-boss/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-5224/Leet-boss/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aditya-5224/Leet-boss/tree/master/0278-first-bad-version) |
@@ -663,4 +665,8 @@ Here's the complete, copy-paste-friendly README.md code for your LeetCode soluti
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aditya-5224/Leet-boss/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aditya-5224/Leet-boss/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
